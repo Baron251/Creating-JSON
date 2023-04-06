@@ -1,0 +1,17 @@
+[
+	{
+		"name": ["Lancelot", "King Arthur"],
+		"quest": {
+			"quest-1": "To seek the Holy Grail!",
+			"quest-2": "Find out the air-speed velocity of an unladen swallow"
+		},
+		"favoriteColor": {
+			"favoriteColor1": "Blue",
+			"favoriteColor2": [
+				"Purple",
+				"But also red.",
+				"I really REALLY like orange kind of."
+			]
+		}
+	}
+]
